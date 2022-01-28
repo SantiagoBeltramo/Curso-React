@@ -1,4 +1,4 @@
-// Desestructuración o Asignacion desestructurante
+// Desestructuración o Asignacion desestructurante de OBJETOS
 
 
 const persona = {
